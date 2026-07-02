@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+    public class question {
+        public static void main(String[] args) {
+
+            //charvey was here lol
+            System.out.println("Question for you\nwhats 2 + 2?");
+            Scanner scanner = new Scanner(System.in);
+            String enter = scanner.next();
+            System.out.println("\n");
+
+            System.out.println("\n here are the result \n ");
+            int test1 = 2;
+            int test2 = 2;
+            System.out.println(test1 + test2);
+
+            //next one
+
+            System.out.println("\nNext Question\nWhats 3 x 3?\n");
+            Scanner hey = new Scanner(System.in);
+            String go = scanner.next();
+            System.out.println("\n Here are the result \n");
+            int tt1 = 3;
+            int tt2 = 3;
+            System.out.println(tt1 * tt2);
+
+            //last one
+            System.out.println("\n last Question\nWhats 4 + 4\n");
+            Scanner nah = new Scanner(System.in);
+            String horo = scanner.next();
+            System.out.println("\n Here are the result \n");
+            int yy1 = 4;
+            int yy2 = 4;
+            System.out.println(yy1 + yy2);
+            System.out.println("\n AWESOME WORK LOL\n\nMADE BY: charvey");
+    }
+}
