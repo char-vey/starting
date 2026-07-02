@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class iconic {
+    public static void main(String[] args){
+        //haha
+        System.out.println("\nWHO IS DUNCANYOUNOT?\n");
+        Scanner scanner = new Scanner(System.in);
+        String name = scanner.next();
+        System.out.println("\nHE IS A YOUTUBER, INFLUENCER, who makes funny, comedy and reacting content.\n");
+
+        //note 2
+        System.out.println("\n\nHOW OLD IS DUNCANYOUNOT?\n\n");
+        Scanner runner = new Scanner(System.in);
+        String ame = scanner.next();
+        System.out.println("\nHe Is 23 years old\n");
+
+        System.out.println("\nmath time, whats 2+2?\n");
+        Scanner amb = new Scanner(System.in);
+        String amm = scanner.next();
+        int wom1 = 2;
+        int wom2 = 2;
+        System.out.println("HERES THE RESULT");
+        System.out.println(wom1 + wom2);
+        System.out.println("WOW OKAY");
+    }
+}
